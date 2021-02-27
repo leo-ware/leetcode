@@ -1,3 +1,1 @@
-# hackerrank
-
-This is where I put miscellaneous little functions and classes that do cool things. Most of them come from hackerrank challenges or related.
+This is where I put miscellaneous little functions and classes that do cool things. Most of them are for leetcode challenges.
